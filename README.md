@@ -8,14 +8,13 @@ I am a recent graduate with a profound interest in technology and a dedication t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Bdown4587/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SOC Automation Project         | <a href="https://github.com/Bdown4587/Detection-Lab/tree/main">Detection Lab</a>|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Tools
+<div>
+    <img src="https://img.shields.io/badge/-Wazuh-1679A7?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-1679A7?&style=for-the-badge&logo=TheHive&logoColor=white" />
+</div>
 
 ### Network
 <div>
@@ -39,6 +38,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/-CySA-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-JNCIA-007ACC?&style=for-the-badge&logo=Juniper%20Networks&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
